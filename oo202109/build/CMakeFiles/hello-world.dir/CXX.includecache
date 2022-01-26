@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/oo/src/message.cc
+message.h
+/oo/src/message.h
+iostream
+-
+string
+-
+
+/oo/src/message.h
+iosfwd
+-
+string
+-
+

@@ -1,2 +1,3 @@
 # cpp
-cpp learning
+Is cpp learning
+I will record learning record！

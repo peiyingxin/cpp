@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello-world.dir/src/main.cc.o CMakeFiles/hello-world.dir/src/message.cc.o  -o hello-world 
