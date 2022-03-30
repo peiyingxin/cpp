@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/hello-embedded-python.dir/hello-embedded-python.c.o  -o hello-embedded-python  /usr/lib/x86_64-linux-gnu/libpython3.8.so 

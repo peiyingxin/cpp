@@ -1,0 +1,5 @@
+/oo/build/CMakeFiles/rebuild_cache.dir
+/oo/build/CMakeFiles/edit_cache.dir
+/oo/build/python_interp/CMakeFiles/edit_cache.dir
+/oo/build/python_interp/CMakeFiles/rebuild_cache.dir
+/oo/build/python_interp/CMakeFiles/hello-embedded-python.dir
